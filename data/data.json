@@ -1,0 +1,424 @@
+{
+  "personalInfo": {
+    "name": "Ashutosh Kumar",
+    "email": "aksamtiwari@gmail.com",
+    "tagline": "I'm Ashutosh Kumar,",
+    "titles": [
+      "A Full Stack Developer",
+      "A Software Engineer",
+      "A Cloud Developer",
+      "A Problem Solver",
+      "A Creative Thinker",
+      "A Team Player"
+    ],
+    "socialLinks": {
+      "github": "https://github.com/tiwariashuism",
+      "linkedin": "https://www.linkedin.com/in/tiwari-ashuism/",
+      "email": "aksamtiwari@gmail.com"
+    },
+    "resumeLink": "./resume.pdf"
+  },
+  "aboutMe": {
+    "title": "Hi, I'm Ashutosh Kumar!",
+    "subtitle": "A LITTLE ABOUT ME",
+    "description": [
+      "I am a Full Stack Developer with expertise in building scalable web applications and cloud solutions.",
+      "With a strong foundation in modern web technologies and cloud computing, I specialize in creating efficient, user-friendly applications. I have experience with React, Next.js, and various cloud platforms, focusing on delivering high-quality software solutions. I'm passionate about learning new technologies and solving complex problems through innovative approaches. I believe in writing clean, maintainable code and following best practices in software development."
+    ],
+    "image": "./about-me.png"
+  },
+  "values": {
+    "title": "MY VALUES",
+    "items": [
+      {
+        "icon": "📒",
+        "title": "Be a Lifelong Learner.",
+        "description": "Growth comes from constant curiosity. I actively seek out new challenges—through competitions, collaborations, reading, and engaging with the tech community—to both learn from others and give back by sharing my experiences and mentoring others."
+      },
+      {
+        "icon": "🌱",
+        "title": "Grow with Purpose.",
+        "description": "I believe that personal and professional growth should be intentional. Every project, every interaction, and every challenge is an opportunity to not just improve, but to align more closely with my values and purpose—and to make a positive difference."
+      },
+      {
+        "icon": "💛",
+        "title": "Lead with Passion.",
+        "description": "Loving what I do fuels my energy and commitment. It inspires me to chase limitless creativity and to collaborate with others who share the same fire, creating meaningful impact and spreading positivity."
+      },
+      {
+        "icon": "😊",
+        "title": "Stay Human.",
+        "description": "Kindness, empathy, and authenticity matter. I strive to understand different perspectives, uplift others, and contribute to an environment of inclusion, respect, and genuine connection."
+      },
+      {
+        "icon": "✊",
+        "title": "Trust the Process.",
+        "description": "Success is built through embracing challenges, setbacks, and moments of discomfort. I believe in staying curious, optimistic, and resilient, enjoying the ride while trusting in my own growth."
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Artificial Intelligence & Machine Learning",
+      "items": [
+        "Built custom neural networks (MLP, CNN) achieving 93.5% accuracy in brain tumor classification using PyTorch/TensorFlow",
+        "Developed computer vision systems: YOLO v11 object detection, face recognition (OpenCV), medical image analysis pipelines",
+        "Fine-tuned transformer models (DeBERTa, MiniLM) for NLP tasks, deployed on Hugging Face, integrated LLM APIs (Groq, NVIDIA)",
+        "Expert in supervised learning: SVM, Random Forest, XGBoost, Logistic Regression with hyperparameter optimization",
+        "Applied unsupervised methods: K-Means clustering, PCA/t-SNE dimensionality reduction, pattern discovery techniques"
+      ]
+    },
+    {
+      "category": "Data Science & Analytics",
+      "items": [
+        "Proficient in Python data science stack: pandas, numpy, matplotlib, seaborn for EDA and statistical analysis",
+        "Experienced in data preprocessing, feature engineering, and ML pipeline development across multiple domains",
+        "Applied statistical methods: regression analysis, hypothesis testing, A/B testing, and model evaluation metrics"
+      ]
+    },
+    {
+      "category": "UI/UX Design",
+      "items": [
+        "UI/UX Designer Intern creating wireframes, high-fidelity mockups, and interactive Figma prototypes with design systems",
+        "Conducted usability testing and iterative design improvements to enhance user task completion and visual consistency",
+        "Designed user interfaces for e-commerce, shuttle booking, and business management applications"
+      ]
+    },
+    {
+      "category": "Full-Stack Web Development",
+      "items": [
+        "Expert in React, Next.js, ASP.NET WebForms; proficient in TailwindCSS, Material UI, Bootstrap for responsive design",
+        "Built RESTful APIs (Express.js, Flask), integrated databases (Supabase, Firebase, MySQL, MongoDB), Node.js/PHP backends",
+        "Developed interactive data dashboards with Chart.js for competition projects and business applications"
+      ]
+    },
+    {
+      "category": "Mobile Development",
+      "items": [
+        "Built cross-platform apps (React Native) and native apps (Kotlin Android, Swift/SwiftUI iOS, Xamarin C#)",
+        "Implemented mobile features: camera integration, real-time data, offline capabilities, responsive UI design"
+      ]
+    },
+    {
+      "category": "Project Management & Leadership",
+      "items": [
+        "Led software development teams through complete project lifecycles using Trello, Jira, and GitHub workflows",
+        "Competed in programming competitions and hackathons (DLSU Hackercup, CodeChum National Challenge) managing tight deadlines",
+        "Conducted programming workshops and mentored CS students through Mapúa MCL-ACM Student Chapter"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "UI/UX Designer Intern",
+      "company": "Codebility",
+      "period": "Jun 2025 - Present",
+      "description": [
+        "Designed wireframes and high-fidelity mockups and prototypes for mobile apps and websites, focusing on user experience, and functionality.",
+        "Built interactive Figma prototypes and a component-based design system with reusable styles and variants.",
+        "Ran quick usability checks and iterated on feedback to improve task completion time and visual consistency."
+      ],
+      "image": "./exp/codebility.jpeg"
+    },
+    {
+      "title": "Freelance Software Developer",
+      "company": "Self-employed",
+      "period": "Dec 2024 - Feb 2025",
+      "description": [
+        "Sourced and engaged clients through online platforms, primarily Facebook, to secure project commissions.",
+        "Delivered diverse coding projects, ranging from simple assignments to comprehensive full-stack systems.",
+        "Worked on a flexible, commission-based model, tailoring solutions to meet client requirements and deadlines."
+      ],
+      "image": "./exp/freelance.png"
+    },
+    {
+      "title": "Software Engineering Fellow",
+      "company": "Headstarter",
+      "period": "Jul 2024 - Sept 2024",
+      "description": [
+        "Built 5 AI-integrated web development projects, combining AI technologies with modern web frameworks.",
+        "Participated in hackathons, collaborating with diverse teams to develop innovative solutions under tight deadlines.",
+        "Enhanced technical proficiency in AI and web development, gaining hands-on experience in creating user-centric applications."
+      ],
+      "image": "./exp/headstarter.png"
+    }
+  ],
+  "projects": {
+    "row1": [
+      {
+        "title": "MindMap",
+        "description": "A Digital Journaling Web Application for Mental Wellness Support using Natural Language Processing and Generative AI.",
+        "imageSrc": "./banners/mindmap.png",
+        "imageAlt": "MindMap",
+        "projectUrl": "https://github.com/wncelrcn/MindMap",
+        "websiteUrl": "https://mindmap-journals.vercel.app",
+        "presentationUrl": "https://www.canva.com/design/DAGtPG5Ku3g/pbFaw0qbf_BuTLlj0WwFQw/view?utm_content=DAGtPG5Ku3g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha25ddf02d0",
+        "techStack": [
+          { "name": "Next.js", "color": "#4DB4D7" },
+          { "name": "Material UI", "color": "#4DB4D7" },
+          { "name": "Supabase", "color": "#4DB4D7" },
+          { "name": "NVIDIA Nemotron Ultra", "color": "#4DB4D7" },
+          { "name": "Deep Learning", "color": "#4DB4D7" },
+          { "name": "Neural Networks", "color": "#4DB4D7" }
+        ],
+        "additionalImages": [
+          "./project-pictures/mindmap_1.png",
+          "./project-pictures/mindmap_2.png",
+          "./project-pictures/mindmap_3.png"
+        ]
+      },
+      {
+        "title": "NeuroView",
+        "description": "NeuroView is a comprehensive web and mobile application designed for medical professionals to analyze brain MRI scans using custom-built artificial intelligence.",
+        "imageSrc": "./banners/neuroview.png",
+        "imageAlt": "NeuroView",
+        "githubUrls": [
+          "https://github.com/wncelrcn/NeuroView",
+          "https://github.com/wncelrcn/NeuroView-Mobile"
+        ],
+        "websiteUrl": "https://neuroview-brainscans.vercel.app",
+        "techStack": [
+          { "name": "Next.js", "color": "#4DB4D7" },
+          { "name": "TailwindCSS", "color": "#4DB4D7" },
+          { "name": "Deep Learning", "color": "#4DB4D7" }
+        ]
+      }
+    ],
+    "row2": [
+      {
+        "title": "MindMap Emotion Classifier",
+        "description": "A fine-tuned multi-label emotion classification model based on DeBERTa and MiniLM, trained on the GoEmotions dataset.",
+        "imageSrc": "./banners/mindmap-ml.png",
+        "imageAlt": "MindMap Emotion Classifier",
+        "colabUrls": [
+          "https://colab.research.google.com/drive/1SARFNxLlkhkl7QZcmkodvR5nhCv97YNK",
+          "https://colab.research.google.com/drive/1RipLfwWYsWEiCe-Vpxv58nFT6A6xKVbi"
+        ],
+        "huggingFaceUrls": [
+          "https://huggingface.co/wncelrcn/mindmap-deBERTa-goemotions-multilabel",
+          "https://huggingface.co/wncelrcn/mindmap-MiniLM-goemotions-v1"
+        ],
+        "techStack": [
+          { "name": "Deep Learning", "color": "#4DB4D7" },
+          { "name": "NLP", "color": "#4DB4D7" },
+          { "name": "PyTorch", "color": "#4DB4D7" }
+        ]
+      }
+    ]
+  },
+  "layout": {
+    "header": {
+      "logo": "ASHUTOSH KUMAR",
+      "mobileMenu": "MENU",
+      "navigation": [
+        { "path": "/projects", "label": "Projects" },
+        { "path": "/skills", "label": "Skills" },
+        { "path": "/experience", "label": "Experience" },
+        { "path": "/certifications", "label": "Certifications" }
+      ]
+    },
+    "footer": {
+      "greeting": "Thanks for stopping by, let's connect! 👋",
+      "contact": {
+        "title": "CONTACT ME 📬",
+        "email": "aksamtiwari@gmail.com"
+      },
+      "connect": {
+        "title": "LET'S CONNECT 🤝",
+        "links": [
+          { "label": "Resume", "url": "./resume.pdf" },
+          { "label": "LinkedIn", "url": "https://www.linkedin.com/in/tiwari-ashuism/" },
+          { "label": "GitHub", "url": "https://github.com/tiwariashuism" }
+        ]
+      },
+      "copyright": {
+        "text": "© 2025 ASHUTOSH KUMAR",
+        "subtext": "All rights reserved."
+      }
+    }
+  },
+  "certifications": {
+    "intro": {
+      "title": "CERTIFICATIONS",
+      "mainTitle": "Licenses & Certifications",
+      "subtitle": "Recognized credentials that validate my skills and ongoing commitment to professional development."
+    },
+    "categories": {
+      "ml": {
+        "title": "MACHINE LEARNING AND DATA SCIENCE CERTIFICATIONS",
+        "items": [
+          {
+            "title": "Exploratory Data Analysis in Python",
+            "organization": "DataCamp",
+            "certificateUrl": "https://www.datacamp.com/completed/statement-of-accomplishment/course/6441f69c2157010404eecd56f2dda564cfa56e4c"
+          },
+          {
+            "title": "Python Data Fundamentals",
+            "organization": "DataCamp",
+            "certificateUrl": "https://www.datacamp.com/completed/statement-of-accomplishment/track/9af872905102375f14edebb179f79c570559da84"
+          },
+          {
+            "title": "Introduction to Data Visualization with Matplotlib",
+            "organization": "DataCamp",
+            "certificateUrl": "https://www.datacamp.com/completed/statement-of-accomplishment/course/4a82c2f3f531dc6dbaf03a721700722a531a8f2a"
+          },
+          {
+            "title": "Introduction to Data Visualization with Seaborn",
+            "organization": "DataCamp",
+            "certificateUrl": "https://www.datacamp.com/completed/statement-of-accomplishment/course/a469e7417804fb491e05ee7332d90788e28bcba9"
+          },
+          {
+            "title": "Fundamentals of Deep Learning",
+            "organization": "NVIDIA",
+            "certificateUrl": "https://learn.nvidia.com/certificates?id=gH1KSkwERBmV_YIlSDp0VA#"
+          },
+          {
+            "title": "Exploratory Data Analysis for Machine Learning",
+            "organization": "IBM",
+            "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/XBOVKP7LNE39"
+          },
+          {
+            "title": "Python for Data Science, AI & Development",
+            "organization": "IBM",
+            "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/AY9JON3ZWI44"
+          },
+          {
+            "title": "Introduction to Generative AI",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9556866"
+          },
+          {
+            "title": "Introduction to Large Language Models",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9556824"
+          },
+          {
+            "title": "Attention Mechanism",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9951576"
+          },
+          {
+            "title": "Encoder-Decoder Architecture",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9951691"
+          },
+          {
+            "title": "Transformer Models and BERT Model",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9955998"
+          },
+          {
+            "title": "Introduction to Vertex AI Studio",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9955343"
+          },
+          {
+            "title": "Create Image Captioning Models",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9955947"
+          },
+          {
+            "title": "Introduction to Image Generation",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9566346"
+          },
+          {
+            "title": "Introduction to Responsible AI",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9556909"
+          },
+          {
+            "title": "Responsible AI: Applying AI Principles with Google Cloud",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9566318"
+          }
+        ]
+      },
+      "cloud": {
+        "title": "GOOGLE CLOUD SKILLS BOOST CERTIFICATIONS",
+        "items": [
+          {
+            "title": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9180528"
+          },
+          {
+            "title": "Google Cloud Computing Foundations: Networking & Security in Google Cloud",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9384110"
+          },
+          {
+            "title": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9378066"
+          },
+          {
+            "title": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9403909"
+          },
+          {
+            "title": "Prepare Data for ML APIs on Google Cloud",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9566280"
+          },
+          {
+            "title": "Build a Secure Google Cloud Network",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9559758"
+          },
+          {
+            "title": "Set Up an App Dev Environment on Google Cloud",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9542534"
+          },
+          {
+            "title": "Implement Load Balancing on Compute Engine",
+            "organization": "Google Cloud Skills Boost",
+            "certificateUrl": "https://www.cloudskillsboost.google/public_profiles/962bc156-2b74-456e-98d5-1dc8461a9cea/badges/9533722"
+          }
+        ]
+      },
+      "python": {
+        "title": "PYTHON CERTIFICATIONS",
+        "items": [
+          {
+            "title": "Learn Python Certificate",
+            "organization": "Kaggle",
+            "certificateUrl": "https://www.kaggle.com/learn/certification/wincelarcen/python"
+          },
+          {
+            "title": "Problem Solving (Basic) Certificate",
+            "organization": "HackerRank",
+            "certificateUrl": "https://www.hackerrank.com/certificates/d9de6349f5c9"
+          },
+          {
+            "title": "Python (Basic) Certificate",
+            "organization": "HackerRank",
+            "certificateUrl": "https://www.hackerrank.com/certificates/9fdbeebcbd17"
+          },
+          {
+            "title": "Introduction to Programming Using Python",
+            "organization": "CodeChum",
+            "certificateUrl": "#"
+          }
+        ]
+      },
+      "other": {
+        "title": "OTHER CERTIFICATIONS",
+        "items": [
+          {
+            "title": "Graphic Design Essentials",
+            "organization": "Canva",
+            "certificateUrl": "https://www.canva.com/design-school/certification-award/22e1b11e-946a-4ed3-80b3-7bf4c47d67f1"
+          },
+          {
+            "title": "Getting Started with Technology Startups",
+            "organization": "University of Colorado Boulder",
+            "certificateUrl": "https://www.coursera.org/account/accomplishments/verify/HN99XSVV99Q4"
+          }
+        ]
+      }
+    }
+  }
+}
